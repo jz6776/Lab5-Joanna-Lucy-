@@ -50,25 +50,25 @@
   </head>
   <body>
     <h1>WELCOME TO BREATHER!</h1>
-    <p>As human beings, breathing is essential to being alive. Breather can help you check if you are alive.</p >
-    <p>Complete the checklist below:</p >
-    <p>If you check all yes then congrats, you are alive!</p >
+    <p>As human beings, breathing is essential to being alive. Breather can help you check if you are alive.</p>
+    <p>Complete the checklist below:</p>
+    <p>If you check all yes then congrats, you are alive!</p>
     <img src="https://cdn-prod.medicalnewstoday.com/content/images/articles/319/319924/diagram-of-breathing-and-exhalation.jpg" alt="Breathing diagram" height="150">
     <hr>
-    <p>Are you human?</p >
+    <p>Are you human?</p>
     <button id="human-yes">Yes</button>
     <button id="human-no">No</button>
-    <p>Did you take a breath today?</p >
+    <p>Did you take a breath today?</p>
     <button id="breath-yes">Yes</button>
     <button id="breath-no">No</button>
     <br><br>
     <button id="check-button">Check Answers</button>
-    <p id="result"></p >
+    <p id="result"></p>
     <p>
-      <a href=" " target="_blank">
+      <a href="#" target="_blank">
         Click here for more breathing benefits information
-      </a >
-    </p >
+      </a>
+    </p>
     
     <script>
       var humanAnswer = "";
